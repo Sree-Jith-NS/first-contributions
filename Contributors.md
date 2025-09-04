@@ -89,7 +89,7 @@ sdumini
 - [Sarthak Katiyar] (https://github.com/SarthakKatiyar2004)
 - [Ajay C](https://github.com/Ajaynirm)
 - [Nithwin V M](https://github.com/Nithwin)
-- [SATKURI KAILASH](https://github.com/KailashSatkuri-warangal)
+- [Sree](https://github.com/KailashSatkuri-warangal)
 - [phyo thiri zaw](https://github.com/phyothirizaw)
 - [HHZ](https://github.com/phyothirizaw)
 - [Prathmesh Sananse](https://github.com/prathmesh-sananse)
